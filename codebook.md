@@ -1,8 +1,10 @@
-??Identifiers
+Identifiers
+
 * subject - subject ID 
 * activity - activity performed
 
-??Activity Labels
+Activity Labels
+
 * WALKING
 * WALKING_UPSTAIRS
 * WALKING_DOWNSTAIRS
